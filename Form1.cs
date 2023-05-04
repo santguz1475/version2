@@ -16,5 +16,11 @@ namespace Version2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ConvertidorNumerosRomanosEnteros form = new ConvertidorNumerosRomanosEnteros();
+            form.Show();
+        }
     }
 }
