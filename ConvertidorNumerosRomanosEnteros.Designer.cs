@@ -70,9 +70,9 @@
             // 
             // btnConvertir
             // 
-            this.btnConvertir.Location = new System.Drawing.Point(120, 220);
+            this.btnConvertir.Location = new System.Drawing.Point(95, 220);
             this.btnConvertir.Name = "btnConvertir";
-            this.btnConvertir.Size = new System.Drawing.Size(75, 23);
+            this.btnConvertir.Size = new System.Drawing.Size(112, 23);
             this.btnConvertir.TabIndex = 4;
             this.btnConvertir.Text = "Convertir";
             this.btnConvertir.UseVisualStyleBackColor = true;
